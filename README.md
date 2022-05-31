@@ -1,1 +1,5 @@
-![laptop](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)
+![laptop](src/img/laptop.gif)
+
+
+[twitter]: https://twitter.com/gloire_kiba
+[linkedin]: https://www.linkedin.com/in/gloirekiba/
