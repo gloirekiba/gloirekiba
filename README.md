@@ -1,4 +1,4 @@
-![laptop](src/img/laptop.gif)
+![laptop](src/laptop.gif)
 
 
 [twitter]: https://twitter.com/gloire_kiba
