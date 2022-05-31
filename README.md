@@ -1,1 +1,1 @@
-![programmer coding](/src/programer.gif)
+![programmer coding](src/programer.gif)
