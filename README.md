@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="src/programer.gif" />
 
-- 🔭 I’m currently working on [Personal projects][github]
+- 🔭 I’m currently working on [personal projects][github]
 
 - 🌱 I’m currently learning ***React* , *Node.js***
 
