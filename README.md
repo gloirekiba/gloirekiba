@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [personal projects][github]
 
-- 🌱 I’m currently learning ***React* , *Node.js***
+- 🌱 I’m currently learning ***MERNG***
 
 - 👨‍💻 All of my projects are available at [github]
 
