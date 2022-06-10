@@ -18,6 +18,7 @@
 
 <a href="https://twitter.com/gloire_kiba" >  <img src="src/twitter.gif" width="48px" height="48px"/></a>
 <a href="https://www.linkedin.com/in/gloirekiba/" >  <img src="src/linkedin.gif" width="48px" height="48px"/></a>
+<a href="https://www.linkedin.com/in/gloirekiba/" >  <img src="src/discord.gif" width="48px" height="48px"/></a>
 
 [twitter]: https://twitter.com/gloire_kiba
 [linkedin]: https://www.linkedin.com/in/gloirekiba/
