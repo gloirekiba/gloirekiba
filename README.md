@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [personal projects][github]
 
-- 🌱 I’m currently learning ***MERNG***
+- 🌱 I’m currently learning ***MERNG STACK***
 
-- 👨‍💻 All of my projects are available at [github]
+- 👨‍💻 All of my projects are available on [github]
 
 - 📫 How to reach me **gloirekiba21@gmail.com**
 
