@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [personal projects][github]
 
-- 🌱 I’m currently learning ***MERNG STACK***
+- 🌱 I’m currently learning **MERNG STACK**
 
 - 👨‍💻 All of my projects are available on [github]
 
