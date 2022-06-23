@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there  👋, I'm Kiba</h1>
  
-<h3 align="center">&#8220;  Debugging is twice as hard as writing the code in the first place  &#8221;</h3>
+<h3 align="center">&#8220;The most difficult part of programming isn’t solving problems, it’s understanding the task&#8221;</h3>
 
 <img align="right" alt="Coding" width="400" src="src/programer.gif" />
 
